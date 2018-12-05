@@ -1,0 +1,38 @@
+A)
+
+Framework de componentes
+
+É um conjunto de especificações, que além de módulos padrões como classes abstratas e interfaces, tem vários módulos previamente implementados, assim podem ser utilizados em aplicações ou serem modificados. Ou seja o framework de componente representa a base sobre a qual estes padrões e convenções do modelo de componentes são empregados.
+
+
+Modelo de componentes
+
+Ele identifica o conjunto de padrões e convenções o qual os componentes devem estar em conformidade.
+
+Tipos de componentes: cada interface em um componente corresponde a um tipo. Caso implementem as interfaces A e B, logo ele é do tipo A e B.
+
+Formas de interação: Define a forma de interação entre componentes através da especificação de como os componentes são localizados, o protocolo de comunicação usado e como a qualidade de serviços é alcançada.
+
+Definição de recursos: a composição dos componentes é realizada pela ligação de componentes a um ou mais recursos. Onde o mesmo pode ser provido por um framework de componentes como por algum componente utilizado no framework.
+
+
+Componente de software
+
+É uma unidade de software independente que pode ser composta a outros componentes para formar um sistema. Sendo padronizado, independente, implantável.
+
+
+B)
+
+Framework de componentes
+
+Infra-estrutura que dá suporte aos modelos de componentes. Implementa serviços que vão dar suporte ao modelo de componentes. Tendo como função gerenciar recursos compartilhados pelos componentes e prover a comunicação, interação entre eles.
+
+
+Modelo de componentes
+
+Ele define os padrões para implementação documentação e de implantação. Tendo como seu objetivo garantir que os componentes possam interagir entre si. Assim representando um elemento da arquitetura do sistema na qual são definidos os padrões e convenções impostas.
+
+
+Componente de software
+
+Por ser modularizado, é uma parte do código bem definida, que integra com outros componentes para poder executar um respectivo serviço.
